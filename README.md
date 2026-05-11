@@ -18,5 +18,6 @@ Importancia del Analsis de Datos y Recorrido por le Beneficios, Herramientas Dis
 ## 🚀 Tecnologías
 - Power BI
 - Power Point
+- Conceptos y Fundamentos Analisis
 
 ##### Gabriel Gallardo
