@@ -6,6 +6,7 @@ Importancia del Analsis de Datos y Recorrido por le Beneficios, Herramientas Dis
 
 ## 🖼️ Vista previa
 
+<img src="./Capturas/FasesDataDriven01.png" width="500"/>
 <img src="./Capturas/TableroGastos01.png" width="500"/>
 <img src="./Capturas/TableroIngresos01.png" width="500"/>
 <img src="./Capturas/TableroIngGastos01.png" width="500"/>
